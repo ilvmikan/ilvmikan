@@ -22,8 +22,3 @@
 </section>
 </br>
 
-## Minhas skills
-<div> 
-  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
-</div>
-
