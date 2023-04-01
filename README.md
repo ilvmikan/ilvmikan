@@ -1,13 +1,12 @@
 <h1> about me </h1> 
   <div>
-    <p>Olá, eu sou o Mateus (ou Matt se preferir) e aqui está algumas informações sobre mim: <br>
-    &emsp;&emsp;Hoje trabalho como Auxiliar Administrativo, mas busco conhecimento em áreas de TI e principalmente sobre programação,<br>
-    atualmente tenho como hobbies:</p>
+    <p>Olá, eu sou o Mateus (ou Matt se preferir) e aqui está algumas informações sobre mim:<br></p>
   <ul>
-    <li>Tocar músicas
-    <li>Ler livros
-    <li>Programar
-    <li>Estudar sobre os animais
+    <li>Hoje trabalho como Auxiliar Administrativo, mas busco conhecimento em áreas de TI e principalmente sobre programação
+    <li>Meu dia a dia é baseado em músicas
+    <li>Passo a maior parte do tempo lendo
+    <li>Programar é uma das formas de me distrair
+    <li>Amo qualquer tipo de animal.
   </ul>
 </div>
 <hr>
@@ -27,11 +26,11 @@
     <a href="https://www.linkedin.com/in/pmattdiasy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       &nbsp;&nbsp;&nbsp;&nbsp;
      <a href="https://www.instagram.com/matshrr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-       <div align="left">
-    <a href="https://open.spotify.com/playlist/7BowMGFxqwBM2IC8Jj4ehH?si=4cfbb0833e48418f">Spotify :)</a>
-    <a href="https://www.last.fm/user/mattshr">Last.fm</a>
-        <a href="https://ayo.so/mattshr">ayo.so</a>
-  </div>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://open.spotify.com/playlist/7BowMGFxqwBM2IC8Jj4ehH?si=4cfbb0833e48418f" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.last.fm/user/mattshr" target="_blank"><img scr="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white" target="_blank"></a>
+    <a href="https://discordapp.com/users/1053121282767593492" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   </div>
 </section>
 </br>
