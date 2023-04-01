@@ -1,6 +1,7 @@
-<h1> about me </h1> 
+
   <div>
-    <p>Olá, eu sou o Mateus (ou Matt se preferir) e aqui está algumas informações sobre mim:<br></p>
+    <h2>Olá, eu sou o Mateus (ou Matt se preferir).<br></h2>
+  <h3>About me</h3>
   <ul>
     <li>Hoje trabalho como Auxiliar Administrativo, mas busco conhecimento em áreas de TI e principalmente sobre programação
     <li>Meu dia a dia é baseado em músicas
@@ -11,7 +12,7 @@
 </div>
 <hr>
 
-  <h2>skills and profile</h2>
+  <h3>skills and profile</h3>
   
 <div align="center"> 
  
