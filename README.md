@@ -10,8 +10,16 @@
     <li>Estudar sobre os animais
   </ul>
 </div>
+<hr>
+<div>
+  <h2>skills and profile</h2>
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilvmikan&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
-## Info.
+<hr>
+
 <section align="center">  
   <div> 
     <a href = "mailto:mattdias30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -27,10 +35,4 @@
   </div>
 </section>
 </br>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilvmikan&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
