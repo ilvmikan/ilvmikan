@@ -38,7 +38,7 @@
       &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/pmattdiasy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       &nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://www.instagram.com/matshrr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <a href="https://www.instagram.com/mattshr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://open.spotify.com/playlist/7BowMGFxqwBM2IC8Jj4ehH?si=4cfbb0833e48418f" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
       &nbsp;&nbsp;&nbsp;&nbsp;
