@@ -1,8 +1,11 @@
-
-  <div>
-    <h2>Olá, eu sou o Mateus (ou Matt se preferir).<br></h2>
+<div>
+  <h2>Olá, eu sou o Mateus (ou Matt se preferir).<br></h2>
+  <ul>
+    <li> Cursando análise e desenvolvimento de sistemas
+    <li> Estudando diáriamente para adquirir mais conhecimento dessa área vasta de tecnologia.
+  </ul>
 </div>
-  
+<h3>Sobre mim<h3>
 <div align="center"> 
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilvmikan&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
