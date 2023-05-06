@@ -2,8 +2,6 @@
   <div>
     <h2>Olá, eu sou o Mateus (ou Matt se preferir).<br></h2>
 </div>
-
-  <h3>skills and profile</h3>
   
 <div align="center"> 
  
