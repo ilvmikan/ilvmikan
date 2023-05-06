@@ -5,6 +5,7 @@
     <li> Estudando diáriamente para adquirir mais conhecimento dessa área vasta de tecnologia.
   </ul>
 </div>
+<hr>
 <h3>Sobre mim<h3>
 <div align="center"> 
  
