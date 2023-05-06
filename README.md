@@ -1,14 +1,6 @@
 
   <div>
     <h2>Olá, eu sou o Mateus (ou Matt se preferir).<br></h2>
-  <h3>About me</h3>
-  <ul>
-    <li>Hoje trabalho como Auxiliar Administrativo, mas busco conhecimento em áreas de TI e principalmente sobre programação
-    <li>Meu dia a dia é baseado em músicas
-    <li>Passo a maior parte do tempo lendo
-    <li>Programar é uma das formas de me distrair
-    <li>Amo qualquer tipo de animal.
-  </ul>
 </div>
 <hr>
 
