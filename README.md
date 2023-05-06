@@ -6,9 +6,8 @@
   </ul>
 </div>
 <hr>
-<h3>Sobre mim<h3>
 <div align="center"> 
- 
+ <h3>Sobre mim<h3>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilvmikan&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
